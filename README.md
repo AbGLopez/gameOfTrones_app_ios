@@ -1,1 +1,2 @@
-# gameOfTrones_app_ios
+# Westeros app
+
